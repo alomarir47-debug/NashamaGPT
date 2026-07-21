@@ -1,0 +1,9 @@
+flask
+flask-cors
+pandas
+numpy
+scikit-learn
+tavily-python
+deep-translator
+google-generativeai
+gunicorn
